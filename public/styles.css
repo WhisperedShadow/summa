@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  #local-audio-container, #remote-audio-container {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  audio {
+    width: 80%;
+    margin-top: 10px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 5px;
+  }
+  
